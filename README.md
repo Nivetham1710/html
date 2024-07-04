@@ -26,7 +26,7 @@ Publish the website in the given URL.
 
 ### PROGRAM:
 ### home.html
-
+~~~~
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -233,8 +233,9 @@ Publish the website in the given URL.
     </footer>
   </body>
 </html>
+~~~~
 ## products.html
-
+~~~~
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -465,8 +466,9 @@ Publish the website in the given URL.
     </footer>
   </body>
 </html>
-council.html
-
+~~~~
+### council.html
+~~~~
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -657,8 +659,9 @@ council.html
     </footer>
   </body>
 </html>
-contact_us.html
-
+~~~
+## contact_us.html
+~~~
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -902,6 +905,7 @@ contact_us.html
     </footer>
   </body>
 </html>
+~~~~ 
 OUTPUT:
 
 ![Screenshot (31)](https://github.com/Nivetham1710/website-html/assets/94155183/70c01e6c-5840-4b6a-9d21-482cf38dabee)
