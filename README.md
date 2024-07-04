@@ -660,7 +660,7 @@ Publish the website in the given URL.
   </body>
 </html>
 ~~~
-## contact_us.html
+### contact_us.html
 ~~~
 <html>
   <head>
@@ -914,5 +914,6 @@ OUTPUT:
 ![Screenshot (34)](https://github.com/Nivetham1710/website-html/assets/94155183/9deb6947-73b6-430e-82f8-5ad79cca5ab2)
 
 
-
+Result:
+The program for designing software company website using HTML and CSS is completed successfully.
 
