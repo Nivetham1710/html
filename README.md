@@ -1,8 +1,8 @@
-Ex.07 Software Product Company Website
-AIM:
+### Ex.07 Software Product Company Website
+### AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
-DESIGN STEPS:
+## DESIGN STEPS:
 Step 1:
 Requirement collection.
 
@@ -24,8 +24,8 @@ Validate the HTML code.
 Step 7:
 Publish the website in the given URL.
 
-PROGRAM:
-home.html
+### PROGRAM:
+### home.html
 
 <html>
   <head>
@@ -229,11 +229,11 @@ home.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY ROOP SAGAR S L(212223040175)</center>
+      <center>DESIGNED AND DEVELOPED BY Nivetha M (212221240034)</center>
     </footer>
   </body>
 </html>
-products.html
+## products.html
 
 <html>
   <head>
